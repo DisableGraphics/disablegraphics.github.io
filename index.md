@@ -11,7 +11,7 @@ This web page is where I do my (coding, mostly) stuff <br> <br>
   <li>  - 4/04/2020: Web page downloader now has a pre alpha release. Get your copy now: <a href=https://github.com/DisableGraphics/Web-page-downloader/releases/latest> Latest version </a>. **Versions for: Linux with AMD64 processors & ARMv7 onwards. Windows (7 ,8 & 10) with a AMD64-based processor.**
   <li>  - 20/04/2020: Web page downloader now for: Linux with Motorola 68000, MIPS64 or PowerPC processors. **Note: the Morotola 68000 versions work under newer models, such as the 68020**. Added FreeBSD with AMD64 support (every 64-bit x86-based computer with FreeBSD) **Note: works under a command-line interface, so it can be executed on a server** 
   </ul>
-  
+  amoaver po qe no funsiona
 <a href="aboutmyself.html">
   About myself
 </a>
