@@ -3,3 +3,7 @@ all:
 	git add --all
 	git commit -m "Modifications, because I can"
 	git push
+
+update-docs:
+	rm -rf colors
+	cp -rv ${DOC_DIR} colors
