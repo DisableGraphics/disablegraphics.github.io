@@ -1,6 +1,6 @@
 [wrap-file]
 directory = colors-0.1
 
-source_url = https://github.com/DisableGraphics/colors/archive/refs/tags/0.1.tar.gz
-source_filename = 0.1.tar.gz
-source_hash = 94605b598e834b6b1783a2c427c0eaf4406a59be17c325799a697c5728ba47e6
+source_url = https://github.com/DisableGraphics/colors/archive/refs/tags/rel.tar.gz
+source_filename = colors-0.1.tar.gz
+source_hash = c47d9963f3ec33ff74a5c9dce89faef4b6d1c16e8d7731746d436a2d23455e57
